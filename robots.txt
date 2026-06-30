@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://irvinepestcontrolco.com/sitemap.xml
